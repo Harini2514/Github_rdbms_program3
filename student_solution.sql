@@ -1,5 +1,1 @@
-ALTER TABLE Student
-ADD COLUMN Email VARCHAR(30),
-ADD COLUMN PhoneNumber INT(10);
 
-DESC Student;
